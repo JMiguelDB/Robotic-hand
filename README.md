@@ -2,4 +2,4 @@
 
 Final degree project called BioArm, which consists in the creation of a robotic arm that is controlled through a glove used by the user.
 
-[Robotic Hand](img/robotic-hand.jpeg)
+[Robotic Hand](img/bioarm.png)
